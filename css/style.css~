@@ -14,7 +14,7 @@
 
 	body
 	{
-		background: #CBC0BA url(images/img01.jpg) repeat;
+		background: #CBC0BA url(images/fundo.jpg) repeat;
 	}
 
 	body,input,textarea,select
@@ -322,7 +322,7 @@
 
 			.button:hover
 			{
-				background: #763C4B;
+				background: #9C80BD;
 				color: #FFF !important;
 			}
 
