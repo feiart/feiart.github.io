@@ -14,7 +14,7 @@
 
 	body
 	{
-		background: #CBC0BA url(images/fundo.jpg) repeat;
+		background: #2C3031;
 	}
 
 	body,input,textarea,select
