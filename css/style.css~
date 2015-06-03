@@ -761,7 +761,7 @@
 	#header
 	{
 		position: relative;
-		background: #CED0C2;
+		background: #763C4B;
 	}
 
 		#header .container
@@ -791,7 +791,7 @@
 			text-decoration: none;
 			font-size: 2.8em;
 			font-weight: 600;
-			color: #2C3031;
+			color: #CED0C2;
 		}
 
 /*********************************************************************************/
@@ -826,14 +826,14 @@
 				text-transform: uppercase;
 				font-size: 1.1em;
 				outline: 0;
-				color: #333;
+				color: #CED0C2;
 			}
 
 			#nav li.active a
 			{
-				background: #763C4B;
+				background: #2C3031;
 				border-radius: 5px;
-				color: #FFF;
+				/* color: #FFF; */
 			}
 
 			#nav > ul > li > ul
@@ -986,4 +986,5 @@
 	{
 		color: #333 !important;
 	}
+
 
