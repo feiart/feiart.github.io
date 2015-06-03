@@ -14,7 +14,7 @@
 
 	body
 	{
-		background: #202020 url(images/img01.jpg) repeat;
+		background: #CBC0BA url(images/img01.jpg) repeat;
 	}
 
 	body,input,textarea,select
@@ -190,7 +190,7 @@
 				}
 			.gifimg {
 				width: 282px;
-				height: auto;			
+				height: 282px;			
 			}	
 
 	/* Lists */
@@ -761,7 +761,7 @@
 	#header
 	{
 		position: relative;
-		background: #FFF;
+		background: #CED0C2;
 	}
 
 		#header .container
@@ -830,7 +830,7 @@
 
 			#nav li.active a
 			{
-				background: #e95d3c;
+				background: #763C4B;
 				border-radius: 5px;
 				color: #FFF;
 			}
@@ -860,7 +860,7 @@
 	#page
 	{
 		position: relative;
-		background: #fff;
+		background: #CED0C2;
 	}
 
 	#main
