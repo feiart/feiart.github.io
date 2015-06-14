@@ -307,18 +307,20 @@
 			display: inline-block;
 			margin-top: 0.5em;
 			padding: 0.50em 1.5em;
-			background: #2C3031;
 			border-radius: 6px;
 			text-decoration: none;
 			text-transform: uppercase;
 			font-size: 1.1em;
-			color: #FFF;
 			-moz-transition: color 0.35s ease-in-out, background-color 0.35s ease-in-out;
 			-webkit-transition: color 0.35s ease-in-out, background-color 0.35s ease-in-out;
 			-o-transition: color 0.35s ease-in-out, background-color 0.35s ease-in-out;
 			-ms-transition: color 0.35s ease-in-out, background-color 0.35s ease-in-out;
 			transition: color 0.35s ease-in-out, background-color 0.35s ease-in-out;
 			cursor: pointer;
+            background: #CBC0BA;
+            border-radius: 5px;
+            color: #2C3031;
+            
 		}
 
 			.button:hover
@@ -827,14 +829,14 @@
 				text-transform: uppercase;
 				font-size: 1.1em;
 				outline: 0;
-				color: #CED0C2;
+				color: #2C3031;
 			}
 
 			#nav li.active a
 			{
-				background: #2C3031;
-				border-radius: 5px;
-				/* color: #FFF; */
+				background: #CBC0BA;
+                border-radius: 5px;
+                color: #2C3031;
 			}
 
 			#nav > ul > li > ul
